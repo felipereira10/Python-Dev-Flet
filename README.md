@@ -1,4 +1,4 @@
 Para rodar, no terminal:
-'''bash
+```bash
 pip install flet
-'''
+```
