@@ -5,8 +5,8 @@ Importar o flet (Para rodar, no terminal):
 pip install flet
 ```
 
-# Título: Hashzap
-# Botão: Iniciar chat
+Título: Hashzap
+Botão: Iniciar chat
     # popup/modal/alerta
         # Título: Bem vindo ao Hashzap
         # Campo de Texto: Escreva seu nome no chat
