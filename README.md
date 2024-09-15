@@ -6,6 +6,7 @@ pip install flet
 ```
 
 *Título: Hashzap*
+
 - Botão: Iniciar chat
     - popup/modal/alerta
         - Título: Bem vindo ao Hashzap
